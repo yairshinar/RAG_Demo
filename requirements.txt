@@ -1,0 +1,5 @@
+transformers==4.35.2
+faiss-cpu
+sentence-transformers
+ipykernel
+torch
